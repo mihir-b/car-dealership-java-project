@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DealerRunnerST
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=date\ numCars
+comment2.target=Car[]\ createCarList(java.lang.String,\ int)
+comment3.params=
+comment3.target=SalesPerson[]\ createSalesTeam()
+comment4.params=
+comment4.target=void\ printMenu()
+comment5.params=lot
+comment5.target=void\ printLot(Car[])
+comment6.params=sold\ salesTeam
+comment6.target=void\ printSalesDetail(Car[],\ SalesPerson[])
+comment7.params=salesTeam
+comment7.target=void\ printSalesPeople(SalesPerson[])
+comment8.params=lot\ sold\ salesTeam\ keyboard
+comment8.target=int\ soldCar(Car[],\ Car[],\ SalesPerson[],\ java.util.Scanner)
+numComments=9

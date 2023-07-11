@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n\ a\ c
+comment0.target=SalesPerson(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=x
+comment2.target=void\ setCarsSold(int)
+comment3.params=x
+comment3.target=void\ setGrossSales(int)
+comment4.params=x
+comment4.target=void\ setCommission(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
